@@ -1,0 +1,28 @@
+body {
+    background-color: #F9FAFC;
+}
+
+.side-navbar {
+    background-color: #111827;
+}
+
+.nav-item:hover {
+    color: green !important;
+    transition: ease-in-out 0.2s;
+    background-color: #242a38;
+    cursor: pointer;
+}
+
+.top-nav {
+    box-shadow: rgba(27, 31, 35, 0.04) 0px 1px 0px, rgba(255, 255, 255, 0.25) 0px 1px 0px inset;
+}
+
+.box-shadow {
+box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.my-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
